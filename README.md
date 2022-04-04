@@ -28,4 +28,3 @@ f. Is there anything unusual about the filtered Gilbraltar DataFrame? Include re
 There is some missing data at the end under the recovered section and also two in the hospitalised section. But on the whole – the Gibraltar DataFrame has very little missing data. 
 
 In regards to the data. The total death tally is very low. 
-![image](https://user-images.githubusercontent.com/98591821/161564082-b64febdc-63d8-4e17-bdbd-32e1f86e1f41.png)
