@@ -9,7 +9,6 @@ o	whether deaths have been increasing across all regions over time or if a peak 
 •	Which regions have experienced a peak in hospitalisation numbers and if there are regions that have not reached a peak yet (Week 6). Demonstrate if the provided functions can assist you to answer these questions. Provide reasons for your answer.
 o	If there are interesting points in time where different regions displayed unique behaviour patterns (Week 6). 
 •	Potential future outcomes based on trends in the hospitalisation rates of different regions (Week 6).
-![image](https://user-images.githubusercontent.com/98591821/167150442-3651d008-be07-4b31-b31f-713da392635f.png)
 
 covid_19_uk_cases.csv – Details of COVID cases in the UK including the number of deaths, cases, recovered, and hospitalised cases in each of the provinces of the UK.
 covid_19_uk_vaccinated.csv – Details of vaccination rates in the UK including the number of vaccinated, first and second dose cases in each of the provinces of the UK.
